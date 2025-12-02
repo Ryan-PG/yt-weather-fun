@@ -5,6 +5,9 @@ Weather Fun is a Next.js app that suggests fun activities tailored to your local
 ## Website Preview
 ![Weather Fun Preview](preview.png)
 
+## Prerequisites
+Before running the app, copy `.env.example` and rename it to `.env.local`. Fill in the required environment variables. Alternatively, set the environment variables in your production environment before starting the app.
+
 ## Features
 - Search for any city using the location search bar
 - View real-time weather data (temperature, day/night, etc.)
